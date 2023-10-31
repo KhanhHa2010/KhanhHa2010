@@ -2,7 +2,7 @@
 - 👀 I’m interested in maths, literature, foreign language
 - 🌱 I’m currently learning python, 
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...
+- 📫 ...
 
 <!---
 KhanhHa2010/KhanhHa2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
